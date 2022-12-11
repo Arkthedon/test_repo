@@ -17,11 +17,14 @@
      `sudo moves` 
      **Use** `git status` to list allnew or modified files that haven't been committed.
     
-    some basic Git commands are: 
-    ```  git status
-     git add .
-     git commit```
+    some basic Git commands are:
+    ``` 
+    git status
+    git add .
+    git commit
+    ```
     
+    <!-- This comment will not appear in the rendered markdown  
      
-     
- 
+ :EMOJICODE:
+ :+1:
