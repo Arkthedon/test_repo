@@ -8,8 +8,8 @@
        - Second nested list item
      ## I am back 
      - [x] **Apple Computer** 
-     - [ ] AWS Lambda
-     - [ ] S3 Bucket
+     - [x] AWS Lambda
+     - [x] S3 Bucket
      - [x] **EC2 Instance**
      - [ ] \(optional) Open a followup issue
      > I am `serious` about learning git and devops
