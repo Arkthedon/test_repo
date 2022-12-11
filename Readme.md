@@ -26,5 +26,7 @@
     
     <!-- This comment will not appear in the rendered markdown  
      
- :EMOJICODE:
- :+1:
+ 
+[^1]: My refernces
+[^2]: qoutes
+[^note]: we are about to explore this thing
