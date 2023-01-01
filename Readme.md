@@ -16,7 +16,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/12084290/210159125-555ff6fc-4f29-4774-be91-9deb4d8fc455.JPG"
+<img src="https://user-images.githubusercontent.com/12084290/210159125-555ff6fc-4f29-4774-be91-9deb4d8fc455.JPG"/>
      
      `sudo moves` 
      
