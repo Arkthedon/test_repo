@@ -13,8 +13,13 @@
      - [x] **EC2 Instance**
      - [ ] \(optional) Open a followup issue
      > I am `serious` about learning git and devops
+
+
+
+<img src="https://user-images.githubusercontent.com/12084290/210159125-555ff6fc-4f29-4774-be91-9deb4d8fc455.JPG"
      
      `sudo moves` 
+     
      **Use** `git status` to list allnew or modified files that haven't been committed.
     
     some basic Git commands are:
@@ -30,4 +35,4 @@
 [^1]: My refernces
 [^2]: qoutes
 [^note]: we are about to explore this thing
-<img src="https://user-images.githubusercontent.com/12084290/210159125-555ff6fc-4f29-4774-be91-9deb4d8fc455.JPG"
+
