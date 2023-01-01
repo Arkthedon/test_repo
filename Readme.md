@@ -30,3 +30,4 @@
 [^1]: My refernces
 [^2]: qoutes
 [^note]: we are about to explore this thing
+![IMG_4372 (1)](https://user-images.githubusercontent.com/12084290/210159125-555ff6fc-4f29-4774-be91-9deb4d8fc455.JPG)
